@@ -1,4 +1,4 @@
-## Jared Mendoza AWS notes aug 24 2022
+## Jared AWS notes aug 24 2022
 
 # 1) advantages of cloud computing 
 
