@@ -77,11 +77,17 @@ DNS server domain -- name server or just another name for server
 # 6) OSI 7 layer model 
 
 • application layer -- human interaction layer user intercace 
+
 • presentation layer -- shows data in useable format
+
 • session layer -- maintains connection and is responsible for port and session control
+
 • transport layer -- transmits data using transmission protocalls (TCP & UDP)
+
 • network layer -- decides which physical path the user takes 
+
 • datalink layer -- defines the format of the data network
+
 • physical layer -- transmits raw bit stream over the physical medium
 
 # 7) sub nets
