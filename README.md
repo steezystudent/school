@@ -74,7 +74,7 @@ world wide web - sub set of the internet
 URI - uniform resource ID 
 DNS server domain -- name server or just another name for server 
 
-#6) OSI 7 layer model 
+# 6) OSI 7 layer model 
 
 • application layer -- human interaction layer user intercace 
 • presentation layer -- shows data in useable format
@@ -84,25 +84,25 @@ DNS server domain -- name server or just another name for server
 • datalink layer -- defines the format of the data network
 • physical layer -- transmits raw bit stream over the physical medium
 
-#7) sub nets
+# 7) sub nets
 
 • sub nets allow for communities to be created around a system
 • sub nets act like post offices for information 
 • sub nets allow for more efficient transportation of info 
  
-#8) ENI instances (elastic network interface)
+# 8) ENI instances (elastic network interface)
 
 • one or more 2nd addresses from the VPC (virtual private cloud)
 • public v4 address 
 • includes descriptions 
 
-#9) NAT device / NAT TABLE (Network Address Translation table)
+# 9) NAT device / NAT TABLE (Network Address Translation table)
 
 • allows for instances to connect to the internet 
 • aws takes care of database and NAT takes care of private networks 
 • keeps internet activity compartmentalized 
 
-#10) SVPC (shared virtual private clouds)
+# 10) SVPC (shared virtual private clouds)
 
 • allows for devices to share data 
 • only occurs in the same organization 
@@ -112,20 +112,20 @@ DNS server domain -- name server or just another name for server
 • allows for IDS to be seen with VPNS 
 
 
-#11) VPC peering / VPC (virtual private cloud)
-
+# 11) VPC peering / VPC (virtual private cloud)
+ 
 • connected to central hub for simplicity 
 • allows for two clouds to connect to each other 
 • two accounts can use the same account while remaining on their own accounts 
 
-#12 what is a VPN? (virtual private network)
+# 12 what is a VPN? (virtual private network)
 
 • A virtual private network extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
 
  •allows for access to remote data centers 
 • allows for more access to private data centers 
 
-#13) end points 
+# 13) end points 
 • end points are vitual devices that allow vpc to connect to aws and does not require vpn connection and need three different end points to work
 
 
